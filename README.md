@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+My first repositor
+
+Hello, my name is Brygida
+and these are my first steps in programming
